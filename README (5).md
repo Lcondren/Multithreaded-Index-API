@@ -28,4 +28,6 @@ The programme will return a list of words with their meanings along with the num
  ## Features
 
    • All menu options are in the Menu Template class which the Menu class takes in the constructor from this class and gives a switch statement letting the user to press the relevant keys for the relevant actions
+
+   
    • Settings items are in the settings class – this is set up so that the user can specify their own settings from their own computer as to how the required files are read into the Java application
